@@ -1,0 +1,23 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "entry module" },
+    { "name": "EntryAbility_desc", "value": "智识TabAI" },
+    { "name": "EntryAbility_label", "value": "智识TabAI" },
+    {
+      "name": "permission_reason_image",
+      "value": "用于读取相册图片，提供图片对话和自定义头像功能"
+    },
+    {
+      "name": "permission_reason_image_write",
+      "value": "用于保存自定义联系人头像到设备相册"
+    },
+    {
+      "name": "permission_reason_pasteboard",
+      "value": "用于读取剪贴板内容，提升对话输入便捷性"
+    },
+    {
+      "name": "permission_reason_tracking",
+      "value": "用于获取匿名设备标识符，区别不同用户"
+    }
+  ]
+}

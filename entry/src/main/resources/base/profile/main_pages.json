@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/SplashPage",
+    "pages/ChatPage",
+    "pages/ChatDetailPage",
+    "pages/ConfigPage",
+    "pages/ContactInfoPage",
+    "pages/MoreInfoPage",
+    "pages/SettingsPage",
+    "pages/PersonalizePage",
+    "pages/AboutPage",
+    "pages/OpenSourcePage",
+    "pages/PrivacyPolicyPage"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "acl-permissions": [
+    {
+      "name": "ohos.permission.READ_IMAGEVIDEO"
+    },
+    {
+      "name": "ohos.permission.READ_PASTEBOARD"
+    },
+    {
+      "name": "ohos.permission.SHORT_TERM_WRITE_IMAGEVIDEO"
+    }
+  ]
+}
