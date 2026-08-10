@@ -1,0 +1,7 @@
+{
+  "name": "zhishitabai",
+  "version": "1.0.0",
+  "description": "智识TabAI - 原生鸿蒙AI聊天应用",
+  "modelVersion": "5.0.0",
+  "dependencies": {}
+}

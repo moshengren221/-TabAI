@@ -1,0 +1,16 @@
+# 证书密钥
+*.p12
+*.csr
+*.p7b
+*.cer
+# 备份文件
+*.bak
+# 本地缓存
+.idea/
+.hvigor/
+.appanalyzer/
+build/
+local.properties
+# 本地产出包
+*.hap
+*.app
